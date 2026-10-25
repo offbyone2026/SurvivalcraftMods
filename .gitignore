@@ -1,0 +1,8 @@
+# 临时与本地文件
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# 客户端本地安装目录
+local_installs/

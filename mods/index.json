@@ -1,0 +1,13 @@
+{
+  "format_version": 1,
+  "market_name": "Survivalcraft Mod Market",
+  "owner": "offbyone2026",
+  "repo": "SurvivalcraftMods",
+  "source_primary": "https://github.com/offbyone2026/SurvivalcraftMods/raw/main",
+  "fallback_sources": [
+    "https://cdn.jsdelivr.net/gh/offbyone2026/SurvivalcraftMods@main",
+    "https://gh-proxy.com/https://raw.githubusercontent.com/offbyone2026/SurvivalcraftMods/main"
+  ],
+  "mods": [],
+  "updated_at": "2026-10-25"
+}
