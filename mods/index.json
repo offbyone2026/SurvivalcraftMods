@@ -8,6 +8,115 @@
     "https://cdn.jsdelivr.net/gh/offbyone2026/SurvivalcraftMods@main",
     "https://gh-proxy.com/https://raw.githubusercontent.com/offbyone2026/SurvivalcraftMods/main"
   ],
-  "mods": [],
+  "mods": [
+    {
+      "ModId": "sf-shaders",
+      "name": "SF光影 / SF Shaders",
+      "category": "shader",
+      "latest_version": "1.8先行版（正式版1.5）",
+      "author": "被遗忘的青色剑士（主制）、只问为何、再回首、滑稽菌",
+      "supported_api": "2.2插件版1.33 / 2.3插件版（API）",
+      "featured": true
+    },
+    {
+      "ModId": "dawnlight-shaders",
+      "name": "Dawnlight 光影 / DAWNLIGHT SHADER PACK",
+      "category": "shader",
+      "latest_version": "2.5",
+      "author": "ELTANCEX",
+      "supported_api": "2.3插件版 API 1.8.1.2+ / 2.4插件版1.8api",
+      "featured": true
+    },
+    {
+      "ModId": "iltg-shader",
+      "name": "ILTG Shader Light Edition",
+      "category": "shader",
+      "latest_version": "LightEdition",
+      "author": "rafael3382",
+      "supported_api": "Survivalcraft 2 插件版",
+      "featured": true
+    },
+    {
+      "ModId": "light-shadow-mod",
+      "name": "光影模组 / Light and Shadow Mod",
+      "category": "shader",
+      "latest_version": "2.7MB",
+      "author": "PlayMods 社区",
+      "supported_api": "Survivalcraft 2.3",
+      "featured": true
+    },
+    {
+      "ModId": "soartex-1024",
+      "name": "Soartex 1024 高清材质包",
+      "category": "texture",
+      "latest_version": "1024",
+      "author": "百度生存战争贴吧玩家 _0超新星0_",
+      "supported_api": "Survivalcraft 1.27 及以下版本",
+      "featured": false
+    },
+    {
+      "ModId": "scby",
+      "name": "SCBY / 贝爷 4.0",
+      "category": "gameplay",
+      "latest_version": "4.0",
+      "author": "SC 模组社区",
+      "supported_api": "2.3插件版 1.53api",
+      "featured": true
+    },
+    {
+      "ModId": "bianqian",
+      "name": "变迁模组联机版",
+      "category": "gameplay",
+      "latest_version": "4.5.8",
+      "author": "SC 模组社区",
+      "supported_api": "2.3联机版 / 2.4联机版",
+      "featured": true
+    },
+    {
+      "ModId": "command-block",
+      "name": "命令方块",
+      "category": "gameplay",
+      "latest_version": "3.3",
+      "author": "SC 模组社区",
+      "supported_api": "2.3插件版 1.5api / 1.53api / 1.6api",
+      "featured": true
+    },
+    {
+      "ModId": "hentai-mod",
+      "name": "恒泰模组 / Hentai 6周年完结模组",
+      "category": "gameplay",
+      "latest_version": "6周年完结版",
+      "author": "恒泰工作室",
+      "supported_api": "生存战争2 插件版",
+      "featured": true
+    },
+    {
+      "ModId": "zombie-siege",
+      "name": "丧尸围城模组",
+      "category": "gameplay",
+      "latest_version": "3.0",
+      "author": "SC 模组社区",
+      "supported_api": "生存战争2 插件版",
+      "featured": false
+    },
+    {
+      "ModId": "dayz-mod",
+      "name": "DayZ 模组",
+      "category": "gameplay",
+      "latest_version": "5.6",
+      "author": "SC 模组社区",
+      "supported_api": "生存战争2 插件版 / 联机版",
+      "featured": false
+    },
+    {
+      "ModId": "hard-world",
+      "name": "困难♂世界",
+      "category": "gameplay",
+      "latest_version": "1.25完结版",
+      "author": "SC 模组社区",
+      "supported_api": "2.4联机版",
+      "featured": false
+    }
+  ],
   "updated_at": "2026-10-25"
 }

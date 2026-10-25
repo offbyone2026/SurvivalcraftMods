@@ -1,0 +1,13 @@
+{
+  "ModId": "dawnlight-shaders",
+  "name": "Dawnlight 光影 / DAWNLIGHT SHADER PACK",
+  "category": "shader",
+  "latest_version": "2.5",
+  "author": "ELTANCEX",
+  "description": "专注体素渲染、屏幕空间反射、体积光照，昼夜连续渐变、雾色联动、月光下限，兼顾性能与沉浸式视觉，适配多数设备。",
+  "supported_api": "2.3插件版 API 1.8.1.2+ / 2.4插件版1.8api",
+  "source_url": "https://dawnlight.eltancex.top",
+  "license": "开源",
+  "featured": true,
+  "files": []
+}

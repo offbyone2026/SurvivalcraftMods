@@ -1,0 +1,13 @@
+{
+  "ModId": "light-shadow-mod",
+  "name": "光影模组 / Light and Shadow Mod",
+  "category": "shader",
+  "latest_version": "2.7MB",
+  "author": "PlayMods 社区",
+  "description": "带光影总开关与地表/水面/天空独立开关，水反射等效果可按配置关闭，支持半分辨率渲染优化帧率。",
+  "supported_api": "Survivalcraft 2.3",
+  "source_url": "https://playmods.net/zh/survivalcraft-2/mods/light-and-shadow-mod",
+  "license": "第三方作品",
+  "featured": true,
+  "files": []
+}

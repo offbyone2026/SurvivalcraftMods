@@ -1,0 +1,13 @@
+{
+  "ModId": "zombie-siege",
+  "name": "丧尸围城模组",
+  "category": "gameplay",
+  "latest_version": "3.0",
+  "author": "SC 模组社区",
+  "description": "添加丧尸体系的沙盒生存模组，热门玩法整合。",
+  "supported_api": "生存战争2 插件版",
+  "source_url": "https://m.9k9k.com/tags/2340",
+  "license": "第三方作品",
+  "featured": false,
+  "files": []
+}

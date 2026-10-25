@@ -1,0 +1,13 @@
+{
+  "ModId": "bianqian",
+  "name": "变迁模组联机版",
+  "category": "gameplay",
+  "latest_version": "4.5.8",
+  "author": "SC 模组社区",
+  "description": "自动化器械模组：自动挖矿机、自动化设施让生存更轻松，支持联机，优质模组。",
+  "supported_api": "2.3联机版 / 2.4联机版",
+  "source_url": "https://www.scmod.cn",
+  "license": "第三方作品",
+  "featured": true,
+  "files": []
+}

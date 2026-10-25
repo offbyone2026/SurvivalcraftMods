@@ -1,0 +1,13 @@
+{
+  "ModId": "command-block",
+  "name": "命令方块",
+  "category": "gameplay",
+  "latest_version": "3.3",
+  "author": "SC 模组社区",
+  "description": "指令系统极为全面的命令方块模组，让生存战争玩家体验使用指令的快感。",
+  "supported_api": "2.3插件版 1.5api / 1.53api / 1.6api",
+  "source_url": "https://www.scmod.cn",
+  "license": "第三方作品",
+  "featured": true,
+  "files": []
+}

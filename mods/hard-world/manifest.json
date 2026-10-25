@@ -1,0 +1,13 @@
+{
+  "ModId": "hard-world",
+  "name": "困难♂世界",
+  "category": "gameplay",
+  "latest_version": "1.25完结版",
+  "author": "SC 模组社区",
+  "description": "高难度生存模组，为原版平平无奇的模式增添乐趣。",
+  "supported_api": "2.4联机版",
+  "source_url": "https://www.scmod.cn",
+  "license": "第三方作品",
+  "featured": false,
+  "files": []
+}

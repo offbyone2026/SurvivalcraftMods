@@ -1,0 +1,13 @@
+{
+  "ModId": "iltg-shader",
+  "name": "ILTG Shader Light Edition",
+  "category": "shader",
+  "latest_version": "LightEdition",
+  "author": "rafael3382",
+  "description": "Survivalcraft 2 专用光影着色器（不兼容Minecraft），GitHub 开源，社区热门光影之一。",
+  "supported_api": "Survivalcraft 2 插件版",
+  "source_url": "https://github.com/rafael3382/ILTGShader-LightEdition",
+  "license": "开源（见仓库 LICENSE）",
+  "featured": true,
+  "files": []
+}

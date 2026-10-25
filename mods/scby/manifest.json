@@ -1,0 +1,13 @@
+{
+  "ModId": "scby",
+  "name": "SCBY / 贝爷 4.0",
+  "category": "gameplay",
+  "latest_version": "4.0",
+  "author": "SC 模组社区",
+  "description": "贝爷生存挑战：原版基础上添加饮水、季节、丰富战斗装备、更强护甲、更厉害Boss与大量新材料矿物，优质模组。",
+  "supported_api": "2.3插件版 1.53api",
+  "source_url": "https://www.scmod.cn",
+  "license": "第三方作品",
+  "featured": true,
+  "files": []
+}
