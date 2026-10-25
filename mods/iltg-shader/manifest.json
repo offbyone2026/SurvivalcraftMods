@@ -9,5 +9,11 @@
   "source_url": "https://github.com/rafael3382/ILTGShader-LightEdition",
   "license": "开源（见仓库 LICENSE）",
   "featured": true,
-  "files": []
+  "files": [
+    {
+      "file": "versions/vLightEdition/ILTG_Shader_LightEdition_v1.0.scmod",
+      "sha256": "a604e3b6d54feddedd477558d6babacb01eba5e5043554e91e126be97759a685",
+      "size": 5066810
+    }
+  ]
 }

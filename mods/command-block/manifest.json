@@ -2,12 +2,20 @@
   "ModId": "command-block",
   "name": "命令方块",
   "category": "gameplay",
-  "latest_version": "3.3",
+  "latest_version": "2.1.1p",
   "author": "SC 模组社区",
   "description": "指令系统极为全面的命令方块模组，让生存战争玩家体验使用指令的快感。",
   "supported_api": "2.3插件版 1.5api / 1.53api / 1.6api",
   "source_url": "https://www.scmod.cn",
   "license": "第三方作品",
   "featured": true,
-  "files": []
+  "files": [
+    {
+      "path": "versions/2.1.1p/[1.5x1.6]命令方块2.1.1P.scmod",
+      "version": "2.1.1p",
+      "size": 336800,
+      "sha256": "2e39677663afa1523313a266659588778810b2cc305981ea646d78f0f604be63"
+    }
+  ],
+  "download_url": "https://github.com/offbyone2026/SurvivalcraftMods/raw/main/mods/command-block/versions/2.1.1p/[1.5x1.6]命令方块2.1.1P.scmod"
 }

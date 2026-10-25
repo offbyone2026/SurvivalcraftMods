@@ -16,7 +16,8 @@
       "latest_version": "1.8先行版（正式版1.5）",
       "author": "被遗忘的青色剑士（主制）、只问为何、再回首、滑稽菌",
       "supported_api": "2.2插件版1.33 / 2.3插件版（API）",
-      "featured": true
+      "featured": true,
+      "binary": "repo"
     },
     {
       "ModId": "dawnlight-shaders",
@@ -25,7 +26,8 @@
       "latest_version": "2.5",
       "author": "ELTANCEX",
       "supported_api": "2.3插件版 API 1.8.1.2+ / 2.4插件版1.8api",
-      "featured": true
+      "featured": true,
+      "binary": "external"
     },
     {
       "ModId": "iltg-shader",
@@ -34,7 +36,8 @@
       "latest_version": "LightEdition",
       "author": "rafael3382",
       "supported_api": "Survivalcraft 2 插件版",
-      "featured": true
+      "featured": true,
+      "binary": "repo"
     },
     {
       "ModId": "light-shadow-mod",
@@ -43,7 +46,8 @@
       "latest_version": "2.7MB",
       "author": "PlayMods 社区",
       "supported_api": "Survivalcraft 2.3",
-      "featured": true
+      "featured": true,
+      "binary": "repo"
     },
     {
       "ModId": "soartex-1024",
@@ -52,7 +56,8 @@
       "latest_version": "1024",
       "author": "百度生存战争贴吧玩家 _0超新星0_",
       "supported_api": "Survivalcraft 1.27 及以下版本",
-      "featured": false
+      "featured": false,
+      "binary": "none"
     },
     {
       "ModId": "scby",
@@ -61,7 +66,8 @@
       "latest_version": "4.0",
       "author": "SC 模组社区",
       "supported_api": "2.3插件版 1.53api",
-      "featured": true
+      "featured": true,
+      "binary": "none"
     },
     {
       "ModId": "bianqian",
@@ -70,7 +76,8 @@
       "latest_version": "4.5.8",
       "author": "SC 模组社区",
       "supported_api": "2.3联机版 / 2.4联机版",
-      "featured": true
+      "featured": true,
+      "binary": "none"
     },
     {
       "ModId": "command-block",
@@ -79,7 +86,8 @@
       "latest_version": "3.3",
       "author": "SC 模组社区",
       "supported_api": "2.3插件版 1.5api / 1.53api / 1.6api",
-      "featured": true
+      "featured": true,
+      "binary": "repo"
     },
     {
       "ModId": "hentai-mod",
@@ -88,7 +96,8 @@
       "latest_version": "6周年完结版",
       "author": "恒泰工作室",
       "supported_api": "生存战争2 插件版",
-      "featured": true
+      "featured": true,
+      "binary": "none"
     },
     {
       "ModId": "zombie-siege",
@@ -97,7 +106,8 @@
       "latest_version": "3.0",
       "author": "SC 模组社区",
       "supported_api": "生存战争2 插件版",
-      "featured": false
+      "featured": false,
+      "binary": "repo"
     },
     {
       "ModId": "dayz-mod",
@@ -106,7 +116,8 @@
       "latest_version": "5.6",
       "author": "SC 模组社区",
       "supported_api": "生存战争2 插件版 / 联机版",
-      "featured": false
+      "featured": false,
+      "binary": "external"
     },
     {
       "ModId": "hard-world",
@@ -115,7 +126,8 @@
       "latest_version": "1.25完结版",
       "author": "SC 模组社区",
       "supported_api": "2.4联机版",
-      "featured": false
+      "featured": false,
+      "binary": "repo"
     }
   ],
   "updated_at": "2026-10-25"

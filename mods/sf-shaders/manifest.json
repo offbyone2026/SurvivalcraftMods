@@ -2,13 +2,20 @@
   "ModId": "sf-shaders",
   "name": "SF光影 / SF Shaders",
   "category": "shader",
-  "latest_version": "1.8先行版（正式版1.5）",
+  "latest_version": "1.8.6",
   "author": "被遗忘的青色剑士（主制）、只问为何、再回首、滑稽菌",
   "description": "生存战争首个光影着色器，汇聚SC与MC着色器经验，水面算法、shadowmap、天空算法均获基岩版光影授权（YSS/HSPE/DSPE），大幅改善画面，免费开源。",
   "supported_api": "2.2插件版1.33 / 2.3插件版（API）",
   "source_url": "https://www.scbbs.top",
   "license": "免费开源（部分代码获YSS/HSPE/DSPE授权）",
   "featured": true,
-  "files": [],
-  "download_url": "https://www.mediafire.com/file/httibegmsuswrby/%5B2.3API%5DSF%E5%85%89%E5%BD%B1%2B1.8%E5%85%88%E8%A1%8C%E7%89%88.scmod/file"
+  "files": [
+    {
+      "path": "versions/1.8.6/SF光影1.8.6(泛光调整).scmod",
+      "version": "1.8.6",
+      "size": 2876340,
+      "sha256": "ac4116e4cb79d109cd8ab5edea8e2a67e8ef85095a518694fd1520be7593ba57"
+    }
+  ],
+  "download_url": "https://github.com/offbyone2026/SurvivalcraftMods/raw/main/mods/sf-shaders/versions/1.8.6/SF光影1.8.6(泛光调整).scmod"
 }

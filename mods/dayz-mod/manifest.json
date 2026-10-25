@@ -2,12 +2,13 @@
   "ModId": "dayz-mod",
   "name": "DayZ 模组",
   "category": "gameplay",
-  "latest_version": "5.6",
+  "latest_version": "1.53",
   "author": "SC 模组社区",
   "description": "末日求生 DayZ 玩法模组，支持联机，社区热门。",
   "supported_api": "生存战争2 插件版 / 联机版",
   "source_url": "https://m.9k9k.com/tags/2551",
   "license": "第三方作品",
   "featured": false,
-  "files": []
+  "files": [],
+  "download_url": "https://r2.scbbs.top/2026/4/4/%5BAPl1.53%5DDAYZ.scmod"
 }

@@ -2,12 +2,20 @@
   "ModId": "zombie-siege",
   "name": "丧尸围城模组",
   "category": "gameplay",
-  "latest_version": "3.0",
+  "latest_version": "2.4",
   "author": "SC 模组社区",
   "description": "添加丧尸体系的沙盒生存模组，热门玩法整合。",
   "supported_api": "生存战争2 插件版",
   "source_url": "https://m.9k9k.com/tags/2340",
   "license": "第三方作品",
   "featured": false,
-  "files": []
+  "files": [
+    {
+      "path": "versions/2.4/[2.4]丧尸围城.scmod",
+      "version": "2.4",
+      "size": 28334017,
+      "sha256": "4bb713ed00367ac76a1cfe80e15f2020464bbe85a975562867fbbd976b93265f"
+    }
+  ],
+  "download_url": "https://github.com/offbyone2026/SurvivalcraftMods/raw/main/mods/zombie-siege/versions/2.4/%5B2.4%5D%E4%B8%A7%E5%B0%B8%E5%9B%B4%E5%9F%8E.scmod"
 }
